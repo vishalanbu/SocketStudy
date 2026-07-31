@@ -73,8 +73,6 @@ if ack:
 c.close()
 ```
 ```
-Machine2.py
-
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
