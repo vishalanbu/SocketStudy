@@ -71,7 +71,6 @@ ack=c.recv(1024).decode()
 if ack:
     print(ack)
 c.close()
-
 Machine2.py
 
 import socket
