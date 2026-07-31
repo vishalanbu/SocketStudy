@@ -76,9 +76,11 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 
 Machine1
+
 <img width="822" height="362" alt="image" src="https://github.com/user-attachments/assets/fd1b7d0b-5d1a-45c3-8070-dc68b7c4964d" />
 
 Machine2
+
 <img width="826" height="351" alt="image" src="https://github.com/user-attachments/assets/756ca800-b165-422b-b13d-c4a3c9d7e25c" />
 
 
